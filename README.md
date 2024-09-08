@@ -6,17 +6,17 @@ This project is a comprehensive weather application built using HTML, CSS, and J
 
 Key Features:
 
-Search functionality to find weather forecasts for specific locations
-Display of current weather conditions including temperature with beautiful images
-2-day weather forecast with detailed information for each day
-Responsive design for optimal user experience on various devices
+* Search functionality to find weather forecasts for specific locations//
+* Display of current weather conditions including temperature with beautiful images//
+* 2-day weather forecast with detailed information for each day//
+* Responsive design for optimal user experience on various devices//
 
 Technologies Used:
 
-HTML5 for structuring the application
-CSS3 for styling and layout
-JavaScript for dynamic functionality and API integration
-Weather API for real-time weather data
+1.HTML5 for structuring the application//
+2.CSS3 for styling and layout//
+3.JavaScript for dynamic functionality and API integration//
+4.Weather API for real-time weather data//
 
 Getting Started:
 
