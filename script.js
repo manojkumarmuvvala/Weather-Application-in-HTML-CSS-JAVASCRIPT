@@ -2,7 +2,7 @@ const searchInput = document.querySelector(".search-input");
 const locationButton = document.querySelector(".location-button");
 const currentWeatherDiv = document.querySelector(".current-weather");
 const hourlyWeatherDiv = document.querySelector(".hourly-weather .weather-list");
-const API_KEY = '75335f41922440ef84d03728240809'; 
+const API_KEY = '#put-your-key'; 
 
 const weatherCodes = {
    clear: [1000],
