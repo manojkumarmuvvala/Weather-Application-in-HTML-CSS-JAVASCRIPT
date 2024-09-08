@@ -1,7 +1,7 @@
 # Weather-Application-in-HTML-CSS-JAVASCRIPT
 A dynamic web application that displays real-time weather forecasts and conditions
 Brief Description
-A dynamic web application that displays real-time weather forecasts and conditions for various locations, utilizing HTML for structure, CSS for styling, and JavaScript for interactive functionality and API integration.
+A dynamic web application that displays real-time weather forecasts and conditions for various locations, utilizing HTML for structure, CSS for styling, and JavaScript for interactive functionality and API integration.\\
 This project is a comprehensive weather application built using HTML, CSS, and JavaScript. The application allows users to search for weather forecasts and conditions for different locations worldwide. The project utilizes the OpenWeatherMap API to fetch real-time weather data, which is then displayed in a user-friendly interface.
 
 Key Features:
