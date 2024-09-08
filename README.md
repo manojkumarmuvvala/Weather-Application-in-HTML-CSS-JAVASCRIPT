@@ -6,7 +6,7 @@ This project is a comprehensive weather application built using HTML, CSS, and J
 
 Key Features:
 Search functionality to find weather forecasts for specific locations
-Display of current weather conditions, including temperature, humidity, and wind speed
+Display of current weather conditions including temperature with beautiful images
 2-day weather forecast with detailed information for each day
 Responsive design for optimal user experience on various devices
 
